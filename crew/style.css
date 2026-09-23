@@ -191,3 +191,35 @@ h1{
   top:330px;
   left:1215px;  
 }
+
+.dina-tag{
+    zoom:0.4;
+    z-index:3;
+    position: absolute;
+  top:360px;
+  left:205px; 
+}
+
+.irma-tag{
+    zoom:0.4;
+    z-index:3;
+    position:absolute;
+    top:360px;
+    left:1005px;
+}
+
+.mariam-tag{
+     zoom:0.4;
+    z-index:3;
+    position:absolute;
+    top:360px;
+    left:1805px;   
+}
+
+.exit{
+    zoom:0.25;
+    z-index:3;
+    position:absolute;
+    top:580px;
+    left:3985px; 
+}
