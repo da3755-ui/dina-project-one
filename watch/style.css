@@ -1,0 +1,40 @@
+body{
+    background-color: black;
+}
+
+.film{
+    zoom:0.35;
+}
+
+p{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    z-index: 3;
+    font-style: italic;
+    /* display: inline-block;
+    background-color: darkred; */
+    position:absolute;
+    bottom:200px;
+    left: 430px;
+    right:70px;
+    font-size: 1.5em;
+}
+
+p1{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    z-index: 3;
+    font-style: italic;
+    display: inline-block;
+    font-size: 3em;
+    position: absolute;
+    left: 640px;
+    bottom: 100px;
+
+}
+
+.arrow{
+    position:absolute;
+    left:610px;
+    bottom:10px;
+}

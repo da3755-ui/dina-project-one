@@ -1,0 +1,193 @@
+body{
+    background-color: rgb(190,190,190);
+}
+
+h1{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 3em;
+}
+
+.door-one{
+  height: 500px;
+  width: 300px;
+  background-color: #555;
+  position: absolute;
+  top:100px;
+  left: 10px;
+  border: 3px solid black;
+  z-index: 2;
+}
+
+.door-two{
+  height: 500px;
+  width: 300px;
+  background-color: #555;
+  position: absolute;
+  top:100px;
+  left: 325px;
+  border: 3px solid black;
+  z-index: 2;
+}
+
+.door-three{
+    height:500px;
+    width:300px;
+    background-color: #555;
+      position: absolute;
+  top:100px;
+  left: 640px;
+  border: 3px solid black;
+  z-index: 2;
+}
+
+.door-four{
+        height:500px;
+    width:300px;
+    background-color: #555;
+      position: absolute;
+  top:100px;
+  left: 955px;
+  border: 3px solid black;
+  z-index: 2;
+}
+
+.door-knob-one{
+  height: 25px;
+  width: 25px;
+  background-color: #bab5b5;
+  border-radius: 50%;
+  display: inline-block;
+  z-index: 3;
+  position: absolute;
+  top: 375px;
+  left: 35px;
+}
+
+.door-knob-two{
+  height: 25px;
+  width: 25px;
+  background-color: #bab5b5;
+  border-radius: 50%;
+  display: inline-block;
+  z-index: 3;
+  margin-top: -5000;
+  position: absolute;
+  top:375px;
+  left:348px;
+}
+
+.door-knob-three{
+      height: 25px;
+  width: 25px;
+  background-color: #bab5b5;
+  border-radius: 50%;
+  display: inline-block;
+  z-index: 3;
+  margin-top: -5000;
+  position: absolute;
+  top:375px;
+  left:664px;
+
+}
+
+.door-knob-four{
+      height: 25px;
+  width: 25px;
+  background-color: #bab5b5;
+  border-radius: 50%;
+  display: inline-block;
+  z-index: 3;
+  margin-top: -5000;
+  position: absolute;
+  top:375px;
+  left:1210px;
+}
+
+.door-handle-one{
+    height: 10px;
+    width: 40px;
+    background-color: #bab5b5;
+    position: absolute;
+    left: 59px;
+    top:382px;
+    z-index: 3;
+}
+
+.door-handle-two{
+    height: 10px;
+    width: 40px;
+    background-color: #bab5b5;
+    position: absolute;
+    top:382px;
+    z-index:3;
+    left:372px;
+}
+
+.door-handle-three{
+    height: 10px;
+    width: 40px;
+    background-color: #bab5b5;
+    position: absolute;
+    top:382px;
+    z-index:3;
+    left:688px;
+}
+
+.door-handle-four{
+    height: 10px;
+    width: 40px;
+    background-color: #bab5b5;
+    position: absolute;
+    top:382px;
+    z-index:3;
+    left:1172px;
+}
+
+.lock-one{
+  height: 17px;
+  width: 17px;
+  background-color: #bab5b5;
+  border-radius: 50%;
+  display: inline-block;
+  z-index: 3;
+  position: absolute;
+  top:330px;
+  left:40px;
+}
+
+.lock-two{
+  height: 17px;
+  width: 17px;
+  background-color: #bab5b5;
+  border-radius: 50%;
+  display: inline-block;
+  z-index: 3;
+  position: absolute;
+  top:330px;
+  left:352px;
+}
+
+.lock-three{
+      height: 17px;
+  width: 17px;
+  background-color: #bab5b5;
+  border-radius: 50%;
+  display: inline-block;
+  z-index: 3;
+  position: absolute;
+  top:330px;
+  left:667px;
+}
+
+.lock-four{
+        height: 17px;
+  width: 17px;
+  background-color: #bab5b5;
+  border-radius: 50%;
+  display: inline-block;
+  z-index: 3;
+  position: absolute;
+  top:330px;
+  left:1215px;  
+}
